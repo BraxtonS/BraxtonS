@@ -1,6 +1,6 @@
 <h1>Hello, I'm Braxton Smith. <br/><a href="https://github.com/BraxtonS">Programmer</a>, <a href="https://www.linkedin.com/in/braxton-smith/">Cybersecurity Enthusiast</a>, Hack of all Trades</h1>
 
-<h2> Cybersecurity Projects:</h2>
+<h2> Cybersecurity Projects/Trainings :</h2>
 
 - <b>Active Directory Home Lab</b>
   - [Building Active Directory Home Lab](https://github.com/BraxtonS/ActiveDirectoryLab)
