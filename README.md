@@ -4,6 +4,8 @@
 
 - <b>Active Directory Home Lab</b>
   - [Building Active Directory Home Lab](https://github.com/BraxtonS/ActiveDirectoryLab)
+- <b>Vulnerability Management Lab with Nessus</b>
+  - [Training Vulnerability Management with Nessus](https://github.com/BraxtonS/ActiveDirectoryLab)
 
 <h2>Certifications: </h2>
 
