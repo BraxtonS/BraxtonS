@@ -5,7 +5,7 @@
 - <b>Active Directory Home Lab</b>
   - [Building Active Directory Home Lab](https://github.com/BraxtonS/ActiveDirectoryLab)
 - <b>Vulnerability Management Lab with Nessus</b>
-  - [Training Vulnerability Management with Nessus](https://github.com/BraxtonS/ActiveDirectoryLab)
+  - [Training Vulnerability Management with Nessus](https://github.com/BraxtonS/NessusTraining)
 
 <h2>Certifications: </h2>
 
@@ -20,17 +20,3 @@
 
 [linkedin]: https://linkedin.com/in/braxton-smith
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
