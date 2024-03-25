@@ -1,12 +1,13 @@
 <h1>Hello, I'm Braxton Smith. <br/><a href="https://github.com/BraxtonS">Programmer</a>, <a href="https://www.linkedin.com/in/braxton-smith/">Cybersecurity Enthusiast</a>, Hack of all Trades</h1>
 
-<h2> Cybersecurity Projects/Trainings :</h2>
+<h2> Tech Projects/Trainings :</h2>
 
 - <b>Active Directory Home Lab</b>
   - [Building Active Directory Home Lab](https://github.com/BraxtonS/ActiveDirectoryLab)
 - <b>Vulnerability Management Lab with Nessus</b>
   - [Training Vulnerability Management with Nessus](https://github.com/BraxtonS/NessusTraining)
-
+- <b>Vulnerability Management Lab with Nessus</b>
+  - [Training Vulnerability Management with Nessus](https://github.com/BraxtonS/NessusTraining)
 <h2>Certifications: </h2>
 
 - <b>Google Cybersecurity Certificate</b>
