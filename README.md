@@ -7,7 +7,7 @@
 - <b>Vulnerability Management Lab with Nessus</b>
   - [Training Vulnerability Management with Nessus](https://github.com/BraxtonS/NessusTraining)
 - <b>Vulnerability Management Lab with Nessus</b>
-  - [Training Vulnerability Management with Nessus](https://github.com/BraxtonS/NessusTraining)
+  - [Learning Ansible and Linode](https://github.com/BraxtonS/AnsibleTraining)
 <h2>Certifications: </h2>
 
 - <b>Google Cybersecurity Certificate</b>
