@@ -6,7 +6,7 @@
   - [Building Active Directory Home Lab](https://github.com/BraxtonS/ActiveDirectoryLab)
 - <b>Vulnerability Management Lab with Nessus</b>
   - [Training Vulnerability Management with Nessus](https://github.com/BraxtonS/NessusTraining)
-- <b>Vulnerability Management Lab with Nessus</b>
+- <b>Modifying multiple hosts simultaneously with Ansible</b>
   - [Learning Ansible and Linode](https://github.com/BraxtonS/AnsibleTraining)
 <h2>Certifications: </h2>
 
