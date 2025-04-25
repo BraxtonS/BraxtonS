@@ -9,7 +9,7 @@
 - <b>Modifying multiple hosts simultaneously with Ansible</b>
   - [Learning Ansible and Linode](https://github.com/BraxtonS/AnsibleTraining)
 - <b>Learning Splunk</b>
-  - [Understaning and Comprehending Splunk](https://github.com/BraxtonS/ActiveDirectoryLab)
+  - [Understaning and Comprehending Splunk](https://github.com/BraxtonS/SplunkTraining)
 <h2>Certifications: </h2>
 
 - <b>Google Cybersecurity Certificate</b>
