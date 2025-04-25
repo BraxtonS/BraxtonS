@@ -8,6 +8,8 @@
   - [Training Vulnerability Management with Nessus](https://github.com/BraxtonS/NessusTraining)
 - <b>Modifying multiple hosts simultaneously with Ansible</b>
   - [Learning Ansible and Linode](https://github.com/BraxtonS/AnsibleTraining)
+- <b>Learning Splunk</b>
+  - [Understaning and Comprehending Splunk](https://github.com/BraxtonS/ActiveDirectoryLab)
 <h2>Certifications: </h2>
 
 - <b>Google Cybersecurity Certificate</b>
